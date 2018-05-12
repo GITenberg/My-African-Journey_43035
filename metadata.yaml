@@ -1,0 +1,33 @@
+_repo: My-African-Journey_43035
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Churchill, Winston
+    aliases:
+    - Churchill, Winston Spencer
+    - Churchill, Winston Leonard Spencer, Sir
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '1601'
+    url: http://www.gutenberg.org/2009/agents/1601
+    wikipedia: http://en.wikipedia.org/wiki/Winston_Churchill
+description: ''
+gutenberg_issued: '2013-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nile River Valley -- Description and travel'
+- !lcsh 'Churchill, Winston, 1874-1965 -- Travel -- Africa'
+- !lcc 'DT'
+- !lcsh 'Uganda -- Description and travel'
+- !lcsh 'Africa, East -- Description and travel'
+title: My African Journey
+url: http://www.gutenberg.org/ebooks/43035
